@@ -1,3 +1,3 @@
-# STM32-BlinkDemo
+# STM32-BlinkLED
 
-Blink demo with comments.
+Blink LED with comments.
