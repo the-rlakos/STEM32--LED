@@ -2,7 +2,7 @@
 
 Minimal **STM32 HAL** snippet demonstrating **LED blink** and **button** input. Use **STM32CubeMX** to generate a project and then drop the logic into your `main.c`.
 
-## How it Works (High Level)
+## How it Works
 1. Configure one **LED** GPIO as Output and one **Button** GPIO as Input with Pull-Up.
 2. In the main loop, read the button:
    - If pressed (active-low), toggle LED quickly.
